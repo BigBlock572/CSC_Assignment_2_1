@@ -1,0 +1,27 @@
+body{  
+    background: url('gray-d20__77365.jpg'); /*Create a background using an image*/
+    background-size: 11%;  /*Set the size of the background image*/
+    width: 50%;  /*Set the width of the body*/
+    margin-left: 190px; /*Pad the body on the left-hand side*/
+}
+button{
+    background-color: rgb(98, 105, 105); /*change the color of the button*/
+    border-color: black; /*keep a dark outline to the button*/
+    border-radius: 12px; /*how rounded out the corners are going to be on the button*/
+    border-style:ridge; /*gives a solid line ot the button*/
+    width: 80px; /*how wide its going to be*/
+    height: 80px; /*how tall its going to be*/
+    cursor: cell; /*how the cursor is going to look like once its on the button*/
+    color: aliceblue; /*the color of the text to differenciate from the button*/
+}
+h1{
+    text-align: center; /*the position of the text*/
+    font-size: 90px; /*the actual size of the text*/
+    font-weight: bold; /*how dark the font will be*/
+    color: rgb(133, 31, 228); /*the color the font comes out to*/
+}
+h2{
+    text-align: center;
+    font-size: 60px;
+    color: red;
+}
